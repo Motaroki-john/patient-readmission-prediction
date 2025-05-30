@@ -1,0 +1,17 @@
+# Python environment and dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Conda environment
+readmission_env/
+
+# Model file (can be large, optional to exclude)
+readmission_model.pkl
+
+# IDE files
+.vscode/
